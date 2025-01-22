@@ -1,3 +1,3 @@
 # Mauro Porftolio
 
-This portfolio was deployed using Aws amplify and github actions
+This portfolio was deployed using github pages
